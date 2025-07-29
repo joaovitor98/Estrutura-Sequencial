@@ -2,13 +2,7 @@ package exercicios;
 
 import java.util.Scanner;
 
-//Triângulo:
-//Círculo:
-//Trapézio:
-//Quadrado:
-//Retângulo:
 public class Ex5 {
-
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
         System.out.println("Digite as 3 valores");
